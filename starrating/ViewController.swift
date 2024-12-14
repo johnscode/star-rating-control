@@ -1,0 +1,19 @@
+//
+//  ViewController.swift
+//  starrating
+//
+//  Created by John Fowler on 12/14/24.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+  override func viewDidLoad() {
+    super.viewDidLoad()
+    // Do any additional setup after loading the view.
+  }
+
+
+}
+
